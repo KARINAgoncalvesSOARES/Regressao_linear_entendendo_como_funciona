@@ -13,3 +13,9 @@ A partir da relação estabelecida pela linha entre o x e o y podemos calcular u
 
 ![image](https://user-images.githubusercontent.com/104592210/183740823-9818f976-9119-4b2a-a547-e64c2fc2a2c6.png)
 
+
+Links de estudo:
+
+* [Biblioteca sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_regression.html)
+
+* [Modelo linear sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
